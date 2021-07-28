@@ -1,0 +1,36 @@
+.body{
+    overflow-x: hidden;
+}
+.logo-img{
+    width: 291.11px;
+    height: 39.27px;
+}
+.header-bg{
+    background-color: #FFF9F4;
+
+}
+.banner-img{
+    width:100%;
+    
+}
+.buy-now-btn{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+     padding: 10px 30px;
+    color: white;
+}
+.text-orange{
+    color: orange;
+}
+.banner-text{
+   font-size: 70px;
+   font-weight: 700;
+   width: 100%;
+}
+.bg-card{
+    background-color: rgb(233, 232, 232);
+}
+
+.img-size{
+    width: 78px;
+    height: 82px;
+}
